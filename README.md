@@ -1,6 +1,6 @@
 Live page: https://huysam11.github.io/CS601_HW5_SAM/
 
-<h1>Fetch and Display Data Example</h1>
+<h1>Fetch API and Display Data Example</h1>
 This project showcases an implementation in HTML, CSS, and JavaScript to fetch and display information about college degrees. It is part of a series of assignments for CS601 - Web Application Development.
 <h2>Usage</h2>
 <ol>
