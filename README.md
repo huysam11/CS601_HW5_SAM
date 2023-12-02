@@ -4,7 +4,7 @@ Live page: https://huysam11.github.io/CS601_HW5_SAM/
 This project showcases an implementation in HTML, CSS, and JavaScript to fetch and display information about college degrees. It is part of a series of assignments for CS601 - Web Application Development.
 <h2>Usage</h2>
 <ol>
-<li>Clone the repository: git clone https://github.com/huysam11/CS601_HW5_SAM.git</li>
+<li>Clone the repository</li>
  <li>Open the HTML file in a web browser. </li>
  <li>Click anywhere on the page to initiate the fetch request and display the data in the table. </li>
 </ol>
