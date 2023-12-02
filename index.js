@@ -5,7 +5,7 @@ window.onload = function() {
 
 
 document.addEventListener('click', async () => { //Click event
-    const api = "https://raw.githubusercontent.com/huysam11/cs601_hw5_api/main/degrees.json";
+    const api = "https://raw.githubusercontent.com/huysam11/CS601_HW5_SAM/main/degrees.json";
     try {
         const response = await fetch(api); //Create a fetch request to return a promise
         if (!response.ok) {
