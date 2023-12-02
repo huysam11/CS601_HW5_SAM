@@ -1,0 +1,14 @@
+[
+    {
+        "school": "Georgia State University",
+        "major": "Computer Information System",
+        "type": "BS",
+        "year_conferred": 2022
+    },
+    {
+        "school": "Boston University",
+        "major": "Software Development",
+        "type": "MS",
+        "year_conferred": 2024
+    }
+]
