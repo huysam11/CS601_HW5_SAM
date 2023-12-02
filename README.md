@@ -19,6 +19,4 @@ Modern web browser with JavaScript enabled.
 This project is licensed under the MIT License.
 
 <h2>Acknowledgements</h2>
-The code structure and design were inspired by [insert_reference_here].
 Data source: https://raw.githubusercontent.com/huysam11/CS601_HW5_SAM/main/degrees.json
-Replace the placeholders (your-username, your-repository, insert_reference_here, etc.) with your actual information. If you have specific references or sources you want to acknowledge, include them in the "Acknowledgements" section.
