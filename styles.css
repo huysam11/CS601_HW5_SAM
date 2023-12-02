@@ -1,56 +1,55 @@
-.content-table{
-    border-collapse: collapse;
-    font-size: 0.9em;
-    border-radius: 5px 5px 0 0;
-    overflow: hidden;
-    box-shadow: 0 0 20px rgba(0,0,0,0.5);
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10em;
-    width: 60%;
-    background-color: rgba(0, 0, 0, 0.7); /* Add a semi-transparent black background to improve text readability */
+.content-table {
+	border-collapse: collapse;
+	font-size: 0.9em;
+	border-radius: 5px 5px 0 0;
+	overflow: hidden;
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10em;
+	width: 60%;
+	background-color: rgba(0, 0, 0, 0.7);
+}
 
+.content-table thead tr {
+	background-color: #009879;
+	text-align: left;
+	color: #ffffff;
+	font-weight: bold;
 }
-.content-table thead tr{
-    background-color: #009879;
-    text-align: left;
-    color: #ffffff;
-    font-weight: bold;
-    
-}
+
 .content-table th,
-.content-table td{
-    padding: 12px 15px;
-
-}
-.content-table tbody tr{
-    border-bottom: 1px solid #dddddd;
-
+.content-table td {
+	padding: 12px 15px;
 }
 
-.content-table tbody tr:last-of-type{
-    border-bottom: 2px solid #009879 ; 
+.content-table tbody tr {
+	border-bottom: 1px solid #dddddd;
 }
 
-h1{
-    text-align: center;
-    margin-bottom: 200px;
-    font-size: 35px;
-    color: white; /* Set the text color to white or another color that contrasts well with your background */
+.content-table tbody tr:last-of-type {
+	border-bottom: 2px solid #009879;
+}
 
+h1 {
+	text-align: center;
+	margin-bottom: 200px;
+	font-size: 35px;
+	color: white;
+	;
 }
 
 footer {
-    text-align: center;    
-    font-size: 25px;  
-    color: white; /* Set the text color to white or another color that contrasts well with your background */
-    margin-top: 800px;
-
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	margin-top: 800px;
 }
-body {
-    background-image: url("https://cdn.pixabay.com/photo/2022/05/24/04/38/study-7217599_1280.jpg");
-    background-color: #cccccc;
-    background-size: cover; /* Resize the background image to cover the entire container */
-    color: white; /* Set the text color to white or another color that contrasts well with your background */
 
-   }
+body {
+	background-image: url("https://cdn.pixabay.com/photo/2022/05/24/04/38/study-7217599_1280.jpg");
+	background-color: #cccccc;
+	background-size: cover;
+	color: white;
+	;
+}
