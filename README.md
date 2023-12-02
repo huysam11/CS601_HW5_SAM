@@ -1,6 +1,6 @@
 Live page: https://huysam11.github.io/CS601_HW5_SAM/
 
-Fetch and Display Data Example
+<h1>Fetch and Display Data Example</h1>
 This is a simple JavaScript code snippet that demonstrates how to fetch data from an API and display it in an HTML table. The code includes a click event listener that triggers the data fetching process, and the fetched data is processed and displayed dynamically in the HTML.
 
 Usage
